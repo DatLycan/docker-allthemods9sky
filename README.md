@@ -1,4 +1,4 @@
-# [All the Mods 9-0.2.60](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9) on Curseforge
+# [All the Mods 9 - To the Sky - atm9sky](https://www.curseforge.com/minecraft/modpacks/all-the-mods-9-to-the-sky) on Curseforge
 
 <!-- toc -->
 
@@ -18,7 +18,7 @@
 
 This container is built to run on an [Unraid](https://unraid.net) server, outside of that your milliage will vary.
 
-The docker on first run will download the same version as tagged of `All the Mods 9-0.2.60` and install it.  This can take a while as the Forge installer can take a bit to complete.  You can watch the logs and it will eventually finish.
+The docker on first run will download the same version as tagged of `Atm9 Sky 1.0.0` and install it.  This can take a while as the Forge installer can take a bit to complete.  You can watch the logs and it will eventually finish.
 
 After the first run it will simply start the server.
 
@@ -59,6 +59,4 @@ This container is designed for [Unraid](https://unraid.net) so the user in the c
 If the install is incomplete for some reason.  Deleting the downloaded server file in /data will restart the install/upgrade process.
 
 ## Source
-Github: https://github.com/Goobaroo/docker-allthemods9
-
-Docker: https://hub.docker.com/repository/docker/goobaroo/allthemods9
+Github: https://github.com/DatLycan/docker-allthemods9sky (Fork of: https://github.com/Goobaroo/docker-allthemods9⁠)
